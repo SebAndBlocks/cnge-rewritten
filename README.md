@@ -1,7 +1,7 @@
 #### [![CC BY-NC-ND 4.0](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 #### [This work is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 ## What?
-#### This is a wrapper for p5.js that uses similar syntax to the game engine used in [Code Ninjas](https://codeninjas.com/).
+#### This is a wrapper for p5.js that uses easy to use syntax. It has intergration with Code Ninjas so projects can be moved over quickly. Just copy the Image, XYZ and Stretch info and paste over the character code.
 ## How to Use:
 #### Include our JS and CSS file along with jquery (any cdn is fine as long as your site loads first, then jquery (+p5.js) and finally our JS)
 ## Files to Use:
